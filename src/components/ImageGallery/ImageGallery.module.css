@@ -1,0 +1,12 @@
+.list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 15px;
+  padding: 0px;
+  margin: 0px;
+}
+.listItem {
+  padding: 10px;
+}
